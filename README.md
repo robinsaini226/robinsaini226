@@ -1,12 +1,8 @@
-### Hi there, I'm Robin Saini - [Portfolio][website] 👋
+### Hi there, I'm Robin Saini 👋
+## I'm a Data analyst!!
 
-## I'm a Passionate Front-end Developer!!
-
-- 💻 I’m currently learning React 😁
+- 💻 I’m currently doing Machine Learning 😁
 - 🤝🏼 I’m looking forward to work with you
-- 📅 2022 Goals:
-  - Having tons of contributions
-  - Become a full-stack developer
 
 ### Connect with me:
 
